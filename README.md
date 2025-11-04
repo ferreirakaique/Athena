@@ -130,7 +130,7 @@ O **Athena** surge como uma solução mobile simples, moderna e funcional que of
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seuusuario/athena-app.git
+git clone https://github.com/ferreirakaique/Athena
 
 # Entrar na pasta do projeto
 cd athena-app
@@ -155,9 +155,9 @@ Senha: 123456
 
 | Tela       | Imagem                                 |
 | ---------- | -------------------------------------- |
-| Login      | ![Login](./Imagens%20APP/WhatsApp%20Image%202025-11-04%20at%2015.56.34%20(1).jpeg)          |
-| Atividades | ![Atividades](./Imagens%20APP/WhatsApp%20Image%202025-11-04%20at%2015.56.34.jpeg) |
-| Home | ![Atividades](./Imagens%20APP/WhatsApp%20Image%202025-11-04%20at%2015.56.35%20(1).jpeg) |
+| Cadastro      | ![Login](./Imagens%20APP/WhatsApp%20Image%202025-11-04%20at%2015.56.34%20(1).jpeg)          |
+| Login | ![Atividades](./Imagens%20APP/WhatsApp%20Image%202025-11-04%20at%2015.56.34.jpeg) |
+| Atividades | ![Atividades](./Imagens%20APP/WhatsApp%20Image%202025-11-04%20at%2015.56.35%20(1).jpeg) |
 
 ---
 
